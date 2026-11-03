@@ -213,32 +213,32 @@
       {
         "Price": 0,
         "Range": 22,
-        "Damage": 150,
-        "Cooldown": 0.5
+        "Damage": 225,
+        "Cooldown": 0.4
       },
       {
         "Price": 450,
         "Range": 24,
-        "Damage": 175,
-        "Cooldown": 0.5
+        "Damage": 225,
+        "Cooldown": 0.2
       },
       {
         "Price": 700,
         "Range": 26,
-        "Damage": 200,
-        "Cooldown": 0.4
+        "Damage": 225,
+        "Cooldown": 0.15
       },
       {
         "Price": 800,
         "Range": 28,
-        "Damage": 225,
-        "Cooldown": 0.3
+        "Damage": 300,
+        "Cooldown": 0.1
       },
       {
         "Price": 1000,
         "Range": 35,
-        "Damage": 275,
-        "Cooldown": 0.2
+        "Damage": 325,
+        "Cooldown": 0.1
       }
     ]
   },
@@ -1004,7 +1004,7 @@
     "Image": "rbxassetid://18151575297",
     "Rarity": "Nightmare",
     "PlacePrice": 15000,
-    "Max": 2,
+    "Max": 1,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -1132,7 +1132,7 @@
     "Image": "rbxassetid://122296021370620",
     "Rarity": "Limited",
     "PlacePrice": 6666,
-    "Max": 1,
+    "Max": 2,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -1142,25 +1142,25 @@
       {
         "Price": 0,
         "Range": 6,
-        "Damage": 9250,
-        "Cooldown": 5
+        "Damage": 12400,
+        "Cooldown": 6
       },
       {
         "Price": 12222,
         "Range": 8,
-        "Damage": 10000,
-        "Cooldown": 4.5
-      },
-      {
-        "Price": 24444,
-        "Range": 12.5,
-        "Damage": 11750,
+        "Damage": 27500,
         "Cooldown": 4
       },
       {
+        "Price": 24444,
+        "Range": 10,
+        "Damage": 32500,
+        "Cooldown": 3
+      },
+      {
         "Price": 48888,
-        "Range": 15,
-        "Damage": 12500,
+        "Range": 12,
+        "Damage": 40000,
         "Cooldown": 3
       }
     ]
@@ -1418,7 +1418,7 @@
     "Type": "AOE",
     "Image": "rbxassetid://71876084991999",
     "Rarity": "Nightmare",
-    "PlacePrice": 15000,
+    "PlacePrice": 80000,
     "Offset": 0,
     "Max": 1,
     "Passive": {
@@ -1434,32 +1434,32 @@
       {
         "Price": 0,
         "Range": 18,
-        "Damage": 3000,
+        "Damage": 12500,
         "Cooldown": 2
       },
       {
-        "Price": 20000,
+        "Price": 120000,
         "Range": 20,
-        "Damage": 3500,
-        "Cooldown": 1.825
+        "Damage": 15750,
+        "Cooldown": 2
       },
       {
-        "Price": 25000,
+        "Price": 135000,
         "Range": 21,
-        "Damage": 4000,
-        "Cooldown": 1.75
+        "Damage": 17500,
+        "Cooldown": 2
       },
       {
-        "Price": 30000,
+        "Price": 150000,
         "Range": 22,
-        "Damage": 4500,
-        "Cooldown": 1.625
+        "Damage": 22500,
+        "Cooldown": 1.8
       },
       {
-        "Price": 35000,
+        "Price": 180000,
         "Range": 25,
-        "Damage": 5000,
-        "Cooldown": 1.5
+        "Damage": 25000,
+        "Cooldown": 1.8
       }
     ]
   },
@@ -2558,26 +2558,26 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 17,
-        "Damage": 10000,
+        "Range": 15,
+        "Damage": 38000,
         "Cooldown": 4
       },
       {
         "Price": 25000,
-        "Range": 22,
-        "Damage": 125000,
+        "Range": 18,
+        "Damage": 44000,
         "Cooldown": 4
       },
       {
         "Price": 30000,
-        "Range": 24,
-        "Damage": 15000,
+        "Range": 22,
+        "Damage": 50000,
         "Cooldown": 4
       },
       {
         "Price": 40000,
-        "Range": 28,
-        "Damage": 18750,
+        "Range": 26,
+        "Damage": 56000,
         "Cooldown": 4
       }
     ]
@@ -2755,7 +2755,7 @@
     "Type": "AOE Poison",
     "Image": "rbxassetid://18977738423",
     "Rarity": "Secret",
-    "PlacePrice": 10000,
+    "PlacePrice": 5000,
     "Offset": 0.5,
     "Max": 3,
     "Passive": {
@@ -2771,34 +2771,34 @@
       {
         "Price": 0,
         "Range": 25,
-        "Damage": 700,
+        "Damage": 500,
         "Poison": 350,
         "PoisonTime": 3,
-        "Cooldown": 3
+        "Cooldown": 2
       },
       {
-        "Price": 20000,
+        "Price": 7000,
         "Range": 27,
         "Damage": 1000,
         "Poison": 400,
         "PoisonTime": 3,
-        "Cooldown": 2.85
+        "Cooldown": 2.5
       },
       {
-        "Price": 30000,
+        "Price": 10000,
         "Range": 32,
         "Damage": 1250,
         "Poison": 450,
         "PoisonTime": 3,
-        "Cooldown": 2.7
+        "Cooldown": 2
       },
       {
-        "Price": 40000,
+        "Price": 15000,
         "Range": 35,
         "Damage": 1500,
         "Poison": 500,
         "PoisonTime": 3,
-        "Cooldown": 2.5
+        "Cooldown": 2
       }
     ]
   },
@@ -2806,7 +2806,7 @@
     "Type": "Cone AOE Burn",
     "Image": "rbxassetid://18989232497",
     "Rarity": "Secret",
-    "PlacePrice": 3000,
+    "PlacePrice": 2000,
     "Offset": 0,
     "Max": 3,
     "Passive": {
@@ -2821,35 +2821,35 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 17,
-        "Damage": 150,
+        "Range": 20,
+        "Damage": 300,
         "Burn": 38,
         "BurnTime": 1.2,
-        "Cooldown": 1
+        "Cooldown": 2
       },
       {
-        "Price": 4000,
-        "Range": 19,
-        "Damage": 200,
+        "Price": 1000,
+        "Range": 24,
+        "Damage": 300,
         "Burn": 50,
         "BurnTime": 1.2,
         "Cooldown": 1
       },
       {
-        "Price": 5000,
-        "Range": 20,
-        "Damage": 250,
+        "Price": 3000,
+        "Range": 25,
+        "Damage": 350,
         "Burn": 62,
         "BurnTime": 1.2,
         "Cooldown": 1
       },
       {
         "Price": 6000,
-        "Range": 22,
-        "Damage": 300,
+        "Range": 30,
+        "Damage": 500,
         "Burn": 80,
         "BurnTime": 1.2,
-        "Cooldown": 1
+        "Cooldown": 0.5
       }
     ]
   },
