@@ -4010,5 +4010,195 @@
         "PoisonLength": 3
       }
     ]
+  },
+  "Astral Bonnie": {
+            "Type": "Continuous Splash",
+            "Image": "rbxassetid://128604882971057",
+            "Rarity": "Apex",
+            "PlacePrice": 20000,
+            "Offset": 0.5,
+            "Max": 3,
+            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 30,
+                    "Damage": 2000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 25000,
+                    "Range": 32,
+                    "Damage": 2400,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 30000,
+                    "Range": 34,
+                    "Damage": 2800,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 40000,
+                    "Range": 40,
+                    "Damage": 3200,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                }
+            ]
+        },
+  "Purple Guy": {
+        "Type": "Turret Spawner",
+        "Image": "rbxassetid://74846136473322",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Animatronic Engineer", "Description": "Spawns turrets that have 75 -> 200 DPS each"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 900,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1400,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 20, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 20, "Cooldown": 0.1}
+            }
+        ]
+    },
+"Party Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://103160362573950",
+        "Rarity": "Mythic",
+        "PlacePrice": 500,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 700,
+                "Range": 16,
+                "Damage": 600,
+                "Cooldown": 0.45
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 750,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.4
+            }
+        ]
+    },
+"Goliath Endo Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://112659672284119",
+        "Rarity": "Secret",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 60000,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 70000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 80000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 90000,
+                "Range": 29,
+                "Damage": 15000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 100000,
+                "Range": 32,
+                "Damage": 17500,
+                "Cooldown": 3
+            }
+        ]
+    },
   }
-}
