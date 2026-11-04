@@ -3972,32 +3972,32 @@
             "Y": 0,
             "Z": 0
         },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 500,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 700,
-                "Range": 16,
-                "Damage": 600,
-                "Cooldown": 0.45
-            },
-            {
-                "Price": 800,
-                "Range": 17,
-                "Damage": 750,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 0.4
-            }
-        ]
+          "Upgrades": [
+              {
+                  "Price": 0,
+                  "Range": 15,
+                  "Damage": 100,
+                  "Cooldown": 1
+              },
+              {
+                  "Price": 700,
+                  "Range": 17,
+                  "Damage": 100,
+                  "Cooldown": 0.5
+              },
+              {
+                  "Price": 1000,
+                  "Range": 17,
+                  "Damage": 125,
+                  "Cooldown": 0.5
+              },
+              {
+                  "Price": 1200,
+                  "Range": 20,
+                  "Damage": 75,
+                  "Cooldown": 0.25
+              }
+          ]
     },
     "Astral Bonnie": {
             "Type": "Continuous Splash",
@@ -4016,31 +4016,31 @@
                 {
                     "Price": 0,
                     "Range": 30,
-                    "Damage": 2000,
-                    "Cooldown": 0.25,
+                    "Damage": 900,
+                    "Cooldown": 0.5,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 10000,
+                    "Range": 32,
+                    "Damage": 1250,
+                    "Cooldown": 0.5,
                     "Bleed": 0,
                     "BleedTime": 10
                 },
                 {
                     "Price": 25000,
-                    "Range": 32,
-                    "Damage": 2400,
-                    "Cooldown": 0.25,
-                    "Bleed": 0,
-                    "BleedTime": 10
-                },
-                {
-                    "Price": 30000,
                     "Range": 34,
-                    "Damage": 2800,
-                    "Cooldown": 0.25,
+                    "Damage": 1000,
+                    "Cooldown": 0.3,
                     "Bleed": 0,
                     "BleedTime": 10
                 },
                 {
                     "Price": 40000,
                     "Range": 40,
-                    "Damage": 3200,
+                    "Damage": 1250,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -4116,37 +4116,37 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 5000,
-                "Cooldown": 3.5
+                "Cooldown": 3
             },
             {
-                "Price": 60000,
+                "Price": 40000,
                 "Range": 26,
-                "Damage": 7500,
+                "Damage": 6000,
                 "Cooldown": 3
             },
             {
-                "Price": 70000,
+                "Price": 40000,
                 "Range": 27,
-                "Damage": 10000,
+                "Damage": 8000,
                 "Cooldown": 3
             },
             {
-                "Price": 80000,
+                "Price": 40000,
                 "Range": 28,
-                "Damage": 12500,
+                "Damage": 9000,
                 "Cooldown": 3
             },
             {
-                "Price": 90000,
+                "Price": 50000,
                 "Range": 29,
-                "Damage": 15000,
-                "Cooldown": 3
+                "Damage": 12000,
+                "Cooldown": 4
             },
             {
                 "Price": 100000,
-                "Range": 32,
-                "Damage": 17500,
-                "Cooldown": 3
+                "Range": 40,
+                "Damage": 16000,
+                "Cooldown": 4
             }
         ]
     },
